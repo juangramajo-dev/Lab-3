@@ -1,0 +1,17 @@
+{
+  "name": "00-nodemon",
+  "version": "1.0.0",
+  "description": "Programa de ejemplo para instalar paquetes",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Juan Gramjo",
+  "license": "ISC",
+  "dependencies": {
+  
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

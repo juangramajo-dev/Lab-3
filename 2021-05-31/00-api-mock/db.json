@@ -1,0 +1,21 @@
+{
+  "animales": [
+    {
+      "nombre": "Elefante",
+      "tamaño": "Grande",
+      "id": 1
+    },
+    {
+      "nombre": "Raton",
+      "tamaño": "Pequeño",
+      "id": 2
+    }
+  ],
+  "tareas": [
+    {
+      "nombre": "Tarea 1",
+      "lista": false,
+      "id": 1
+    }
+  ]
+}

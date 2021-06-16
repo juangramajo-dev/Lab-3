@@ -1,0 +1,14 @@
+{
+  "name": "00-api-mock",
+  "version": "1.0.0",
+  "description": "Programa de ejemplo para instalar paquetes",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Matias De la Puente",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
